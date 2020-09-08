@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="textInputErrorColor">#E63D3D</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#E9EAEE</color>
+    <color name="yellow">#F8BA0F</color>
+    <color name="goodgrey">#535353</color>
+    <color name="blue">#293859</color>
+    <color name="lightgrey">#EEEEEE</color>
+    <color name="bgBottomNavigation">#fe485a</color>
+    <color name="startblue">#039be5</color>
+    <color name="endblue">#e1f5fe</color>
+    <color name="graylight">#efefef</color>
+    <color name="gradientbackstart">#9FA5D5</color>
+    <color name="gradientbackend">#E8F5C8</color>
+    <color name="transparent_75_white">#ACFFFFFF</color>
+
+    <color name="localBackground">#827b92</color>
+    <color name="remoteBackground">#484258</color>
+    <color name="black">#000</color>
+    <color name="green">#4ACC60</color>
+    <color name="pink">#6A2290</color>
+    <color name="pink_dark">#4B0082</color>
+
+
+</resources>

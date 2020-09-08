@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="review_doctor" type="id" />
+    <item name="medicine_corner" type="id" />
+    <item name="til_name" type="id" />
+    <item name="til_email" type="id" />
+    <item name="til_password" type="id" />
+</resources>
